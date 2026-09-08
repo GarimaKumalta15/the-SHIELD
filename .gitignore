@@ -216,5 +216,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-
-ml_engine/C2 Beaconing/*.pkl
